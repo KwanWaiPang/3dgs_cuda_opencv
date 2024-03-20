@@ -1,4 +1,4 @@
-# 3DGS的cpp实现
+# 3DGS的cpp实现(添加了opencv以及libtorch用了自己开发的版本～)
 
 * [3D-GS的源码](https://github.com/graphdeco-inria/gaussian-splatting)
 * [注释版本的3DGS](https://github.com/arclab-hku/comment_3DGS)
