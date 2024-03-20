@@ -1,17 +1,17 @@
 .vscode
 build/
-cmake-build-debug/
-cmake-build-release/
+# cmake-build-debug/
+# cmake-build-release/
 external/libtorch/lib
 # output*
 /3DGS_result
 data_set/
-.idea
-*.pt
-.venv/
-*.png
-*.sqlite
-test.py
-*.nsys-rep
-testdata
+# .idea
+# *.pt
+# .venv/
+# *.png
+# *.sqlite
+# test.py
+# *.nsys-rep
+# testdata
 libtorch-cxx11-abi-shared-with-deps-2.0.1+cu118.zip
