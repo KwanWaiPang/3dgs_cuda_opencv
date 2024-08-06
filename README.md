@@ -1,5 +1,6 @@
 # 3DGS的cpp实现(添加了opencv以及libtorch用了自己开发的版本～)
 
+* [修改libtorch以适配ubuntu20.04](https://github.com/KwanWaiPang/libtorch_modified)
 * [3D-GS的源码](https://github.com/graphdeco-inria/gaussian-splatting)
 * [注释版本的3DGS](https://github.com/arclab-hku/comment_3DGS)
 * [此仓库在笔记本Ubuntu20.04下的编译过程记录](https://blog.csdn.net/gwplovekimi/article/details/136348402?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22136348402%22%2C%22source%22%3A%22gwplovekimi%22%7D)
